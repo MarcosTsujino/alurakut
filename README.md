@@ -2,7 +2,7 @@
 
 Projeto está sendo desenvolvido no Imersão React promovida pela [Alura](https://www.alura.com.br/).
 
-![Página inicial da Alurakut](images/pagina-inical.png)
+![Página inicial da Imersão React](https://github.com/MarcosTsujino/alurakut/blob/main/images/pagina-inicial.png)
 
 ## Tecnologias
  - [React](https://reactjs.org)
