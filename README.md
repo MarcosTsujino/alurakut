@@ -1,12 +1,8 @@
-![Logo da Alurakut](images/logo-alurakut.svg)
-
-![Logo da Imersão React](images/logo-imersao-react.svg)
-
 # Alurakut ✨
 
 Projeto está sendo desenvolvido no Imersão React promovida pela [Alura](https://www.alura.com.br/).
 
-![Página inicial da Alurakut](imagens/captura-pagina-inical.png)
+![Página inicial da Alurakut](images/pagina-inical.png)
 
 ## Tecnologias
  - [React](https://reactjs.org)
