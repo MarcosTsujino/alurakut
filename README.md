@@ -9,7 +9,7 @@ Resultado da Aula 01:
 
 
 Resultado da Aula 02:
-![Página inicial da Imersão React](https://github.com/MarcosTsujino/alurakut/blob/main/images/aula02 - pagina_inicial.png)
+![Página inicial da Imersão React](https://github.com/MarcosTsujino/alurakut/blob/main/images/aula02%20-%20pagina_inicial.png)
 
 ## Tecnologias
  - [React](https://reactjs.org)
@@ -33,5 +33,6 @@ npm run dev
 ```
 
 ## Etapas
- - Aula 1: Components com React, Styled Components e NextJS
- - Aula 2: React, State e o primeiro Formulário
+ - [x] Aula 1: Components com React, Styled Components e NextJS 
+ - [x] Aula 2: React, State e o primeiro Formulário 
+ - [ ] Aula 3: Aula 03   Indo além nos Hooks no React com o useEffect e protocolo HTTP
