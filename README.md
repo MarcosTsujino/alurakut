@@ -6,6 +6,11 @@ Resultado da Aula 01:
 
 ![Página inicial da Imersão React](https://github.com/MarcosTsujino/alurakut/blob/main/images/pagina-inicial.png)
 
+
+
+Resultado da Aula 02:
+![Página inicial da Imersão React](https://github.com/MarcosTsujino/alurakut/blob/main/images/aula02 - pagina_inicial.png)
+
 ## Tecnologias
  - [React](https://reactjs.org)
  - [Next.JS](https://nextjs.org/)
