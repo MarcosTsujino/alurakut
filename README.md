@@ -2,6 +2,8 @@
 
 Projeto está sendo desenvolvido no Imersão React promovida pela [Alura](https://www.alura.com.br/).
 
+Resultado da Aula 01:
+
 ![Página inicial da Imersão React](https://github.com/MarcosTsujino/alurakut/blob/main/images/pagina-inicial.png)
 
 ## Tecnologias
@@ -27,3 +29,4 @@ npm run dev
 
 ## Etapas
  - Aula 1: Components com React, Styled Components e NextJS
+ - Aula 2: React, State e o primeiro Formulário
