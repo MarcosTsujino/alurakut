@@ -35,4 +35,5 @@ npm run dev
 ## Etapas
  - [x] Aula 1: Components com React, Styled Components e NextJS 
  - [x] Aula 2: React, State e o primeiro Formulário 
- - [ ] Aula 3: Aula 03   Indo além nos Hooks no React com o useEffect e protocolo HTTP
+ - [x] Aula 3: Indo além nos Hooks no React com o useEffect e protocolo HTTP
+ - [x] Aula 4: Requisições com GraphQL, BFF e AJAX
